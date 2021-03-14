@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Olá visitante, seja bem vindo ao meu Github! 🚀</h1>
+<h1 align="center">🔥 Olá visitante, seja bem-vindo ao meu Github! 🚀</h1>
 
 <h3>🏄 Sobre mim: 😁</h3>
 <ul>
@@ -27,30 +27,30 @@
 			<img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=plastic&logo=azure-devops&logoColor=white"/>
 		</td>
 		<td align="center">
-			<img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=plastic&logo=gitlab&logoColor=white"/>
-		</td>
-		<td align="center">
-			<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=plastic&logo=bitbucket&logoColor=white"/>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			<img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=plastic&logo=angular&logoColor=white"/>
-		</td>
-		<td align="center">
-			<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=plastic&logo=mongodb&logoColor=white"/>
-		</td>
-		<td align="center">
 			<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white"/>
 		</td>
 		<td align="center">
 			<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=plastic&logo=docker&logoColor=white"/>
 		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=plastic&logo=html5&logoColor=white"/>
+		</td>
+		<td align="center">
+			<img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=plastic&logo=angular&logoColor=white"/>
+		</td>
+		<td align="center">
+			<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=plastic&logo=bitbucket&logoColor=white"/>
+		</td>
+		<td align="center">
+			<img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=plastic&logo=gitlab&logoColor=white"/>
+		</td>
 		<td align="center">
 			<img alt="Sql Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white"/>
 		</td>		
 		<td align="center">
-			<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=plastic&logo=html5&logoColor=white"/>
+			<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=plastic&logo=mongodb&logoColor=white"/>
 		</td>	
 	</tr>
 </table>
