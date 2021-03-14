@@ -61,7 +61,7 @@
 <a href="https://www.linkedin.com/in/wallace-maschette/">
 	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://api.whatsapp.com/sendphone=5511990007199&text=Olá%20Wallace,%20tudo%20bem?Podemos%20conversar?">
+<a href="https://api.whatsapp.com/send?phone=5511990007199&text=Olá%20Wallace,%20tudo%20bem?Podemos%20conversar?">
 	<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="mailto:wmaschette@gmail.com?subject=Olá%20Wallace,%20tudo%20bem?Podemos%20conversar?">
