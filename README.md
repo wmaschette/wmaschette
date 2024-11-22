@@ -2,8 +2,8 @@
 
 <h3>🏄 Sobre mim: 😁</h3>
 <ul>
- 	<li>👋 Me chamo Wallace Maschette e tenho 28 anos.</li>
- 	<li>💻 Trabalho com desenvolvimento de software há mais de 10 anos.</li>
+ 	<li>👋 Me chamo Wallace Maschette e tenho 32 anos.</li>
+ 	<li>💻 Trabalho com desenvolvimento de software há 13 anos.</li>
 	<li>📌 Nascido e criado em Santo André-SP</li>
 	<li>🏄 Atualmente morador de Ubatuba-SP</li>
 	<li>📕 Formado em Gestão de T.I. pela FATEC</li>
